@@ -1,12 +1,12 @@
 # Automation Library
 
 ## Descripción
-La biblioteca `automation` facilita la automatización de navegadores web usando Selenium. Ideal para tareas de navegación y pruebas automatizadas.
+La biblioteca `azucar_web_driver` facilita la automatización de navegadores web usando Selenium. Ideal para tareas de navegación y pruebas automatizadas.
 
 ## Instalación
 Instala desde GitHub:
 
-pip install git+https://github.com/juank704/automation.git
+pip install git+https://github.com/juank704/azucar_web_driver.git
 
 ## Uso
 ```python
