@@ -6,7 +6,7 @@ La biblioteca `automation` facilita la automatización de navegadores web usando
 ## Instalación
 Instala desde GitHub:
 
-pip install git+https://github.com/tu_usuario/automation.git
+pip install git+https://github.com/juank704/automation.git
 
 ## Uso
 ```python
