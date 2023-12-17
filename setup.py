@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='automation',  # Nombre de tu paquete
+    name='azucar_web_driver',  # Nombre de tu paquete
     version='0.1',      # Versión inicial del paquete
     packages=find_packages(),  # Encuentra automáticamente todos los paquetes
     description='Automatización de navegadores con Selenium',  # Una breve descripción

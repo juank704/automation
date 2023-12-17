@@ -1,6 +1,5 @@
 # chrome_manager.py
-
-from automation.chrome_factory import ChromeFactory
+from azucar_web_driver.chrome_factory import ChromeFactory
 
 class ChromeManager:
     def __init__(self):
